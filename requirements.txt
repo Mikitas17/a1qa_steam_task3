@@ -1,0 +1,5 @@
+testfixtures
+pytest
+flake8
+pydocstyle
+selenium
